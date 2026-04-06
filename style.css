@@ -1,0 +1,28 @@
+body { 
+    background: #0f2027; 
+    color: white; 
+    text-align: center; 
+    font-family: Arial, sans-serif; 
+}
+
+.card { 
+    background: #1c2b36; 
+    margin: 15px auto; 
+    padding: 20px; 
+    border-radius: 15px; 
+    width: 80%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.val { 
+    font-size: 40px; 
+    font-weight: bold;
+    color: #00d2ff;
+}
+
+.alert { 
+    color: #ff4b2b; 
+    font-size: 25px; 
+    font-weight: bold;
+    margin-top: 20px;
+}
